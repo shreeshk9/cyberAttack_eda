@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+env/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / build folders (if any)
+node_modules/
+dist/
+
+# Data (optional — don't push large raw data)
+data/
+*.csv
+*.zip
